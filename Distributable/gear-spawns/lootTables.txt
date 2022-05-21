@@ -52,60 +52,6 @@ item=GEAR_hotSpringSoda w=1
 item=GEAR_pinenutBrittle w=1
 item=GEAR_kvass w=2
 
-#  _____                 
-# / ___/__ ________ ____ 
-#/ /__/ _ `/ __/ _ `/ _ \
-#\___/\_,_/_/  \_, /\___/
-#____________ /___/_____________ soda and water
-loottable=CargoDrinkA
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_kvass w=1
-
-#_______________________________ coffee and tea
-loottable=CargoDrinkB
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_jubileeCookies w=1
-
-#_______________________________ all soda
-loottable=CargoDrinkC
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_hotSpringSoda w=1
-item=GEAR_solitudeCider w=1
-
-#_______________________________ peaches and beans
-loottable=CargoFoodA
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_marinaraMackerel w=1
-item=GEAR_tunaPate w=1
-
-#_______________________________ tomato soup and condensed milk
-loottable=CargoFoodB
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_nannasOats w=1
-item=GEAR_applesaucePryanik w=1
-
-#_______________________________ crackers and enegry bars
-loottable=CargoFoodC
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_figConfiture w=1
-item=GEAR_pinenutBrittle w=1
-
-#_______________________________ mre
-loottable=CargoFoodRareA
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_bananaChips w=1
-
-#_______________________________ peanut butter and crackers
-loottable=CargoFoodRareB
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_honeyNuts w=1
-item=GEAR_nordShoreChocolate w=1
-
-#_______________________________ ?
-loottable=CargoFoodRareC
-#‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-item=GEAR_bananaChips w=1
-item=GEAR_mysteryCake w=1
 
 #   __ __                 
 #  / // /__  __ _____ ___ 
